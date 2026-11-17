@@ -1,0 +1,106 @@
+Info: Processing symbol 'A1:Module:Arduino_Nano'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Changed A1 value from Arduino_Nano to Arduino_Nano_v3.x.
+Updated A1 symbol association from  to /efff2698-a3d5-4c51-85eb-edb8a14c8b06.
+Updated A1 fields.
+Updated A1 sheetname to '/'.
+Updated A1 sheetfile to 'Mini Project.kicad_sch'.
+Updated A1 footprint filters to 'Arduino*Nano*'.
+Add net unconnected-(A1-D11-Pad14).
+Connected A1 pin 14 to unconnected-(A1-D11-Pad14).
+Add net unconnected-(A1-~{RESET}-Pad28).
+Connected A1 pin 28 to unconnected-(A1-~{RESET}-Pad28).
+Add net unconnected-(A1-A7-Pad26).
+Connected A1 pin 26 to unconnected-(A1-A7-Pad26).
+Add net Net-(A1-D10).
+Connected A1 pin 13 to Net-(A1-D10).
+Add net unconnected-(A1-D12-Pad15).
+Connected A1 pin 15 to unconnected-(A1-D12-Pad15).
+Add net unconnected-(A1-A4-Pad23).
+Connected A1 pin 23 to unconnected-(A1-A4-Pad23).
+Add net unconnected-(A1-GND-Pad29).
+Connected A1 pin 29 to unconnected-(A1-GND-Pad29).
+Add net Net-(A1-D9).
+Connected A1 pin 12 to Net-(A1-D9).
+Add net Net-(A1-D3).
+Connected A1 pin 6 to Net-(A1-D3).
+Add net Net-(A1-+5V).
+Connected A1 pin 27 to Net-(A1-+5V).
+Add net unconnected-(A1-AREF-Pad18).
+Connected A1 pin 18 to unconnected-(A1-AREF-Pad18).
+Add net unconnected-(A1-A3-Pad22).
+Connected A1 pin 22 to unconnected-(A1-A3-Pad22).
+Add net Net-(A1-A0).
+Connected A1 pin 19 to Net-(A1-A0).
+Add net unconnected-(A1-D13-Pad16).
+Connected A1 pin 16 to unconnected-(A1-D13-Pad16).
+Add net unconnected-(A1-3V3-Pad17).
+Connected A1 pin 17 to unconnected-(A1-3V3-Pad17).
+Add net unconnected-(A1-VIN-Pad30).
+Connected A1 pin 30 to unconnected-(A1-VIN-Pad30).
+Add net Net-(A1-D4).
+Connected A1 pin 7 to Net-(A1-D4).
+Add net Net-(A1-D6).
+Connected A1 pin 9 to Net-(A1-D6).
+Add net Net-(A1-D8).
+Connected A1 pin 11 to Net-(A1-D8).
+Add net Net-(A1-D5).
+Connected A1 pin 8 to Net-(A1-D5).
+Add net unconnected-(A1-D2-Pad5).
+Connected A1 pin 5 to unconnected-(A1-D2-Pad5).
+Add net unconnected-(A1-~{RESET}-Pad3).
+Connected A1 pin 3 to unconnected-(A1-~{RESET}-Pad3).
+Add net unconnected-(A1-A5-Pad24).
+Connected A1 pin 24 to unconnected-(A1-A5-Pad24).
+Add net unconnected-(A1-A2-Pad21).
+Connected A1 pin 21 to unconnected-(A1-A2-Pad21).
+Add net Net-(J1-Pin_1).
+Connected A1 pin 4 to Net-(J1-Pin_1).
+Add net Net-(A1-D7).
+Connected A1 pin 10 to Net-(A1-D7).
+Add net unconnected-(A1-D1/TX-Pad1).
+Connected A1 pin 1 to unconnected-(A1-D1/TX-Pad1).
+Add net unconnected-(A1-A6-Pad25).
+Connected A1 pin 25 to unconnected-(A1-A6-Pad25).
+Add net unconnected-(A1-D0/RX-Pad2).
+Connected A1 pin 2 to unconnected-(A1-D0/RX-Pad2).
+Add net unconnected-(A1-A1-Pad20).
+Connected A1 pin 20 to unconnected-(A1-A1-Pad20).
+Updated A1 unit metadata.
+Added A1 (footprint 'Module:Arduino_Nano').
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x10_P2.54mm_Vertical to Conn_01x10.
+Updated J1 symbol association from  to /d7973404-9bea-4aed-8f96-1e209d1bd5f5.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'Mini Project.kicad_sch'.
+Changed REF** reference designator to A1.
+Connected J1 pin 9 to Net-(A1-D10).
+Connected J1 pin 10 to Net-(A1-+5V).
+Connected J1 pin 5 to Net-(A1-D6).
+Connected J1 pin 2 to Net-(A1-D3).
+Connected J1 pin 1 to Net-(J1-Pin_1).
+Connected J1 pin 4 to Net-(A1-D5).
+Connected J1 pin 7 to Net-(A1-D8).
+Connected J1 pin 6 to Net-(A1-D7).
+Connected J1 pin 8 to Net-(A1-D9).
+Connected J1 pin 3 to Net-(A1-D4).
+Updated J1 unit metadata.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x03_P2.54mm_Vertical to Conn_01x03.
+Updated J2 symbol association from  to /2e8dad41-beb5-4b26-b8f0-2ad9c698e98d.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'Mini Project.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 3 to Net-(J1-Pin_1).
+Connected J2 pin 2 to Net-(A1-A0).
+Connected J2 pin 1 to Net-(A1-+5V).
+Updated J2 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.
